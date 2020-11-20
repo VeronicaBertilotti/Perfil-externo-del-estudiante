@@ -1,0 +1,76 @@
+template: "online-cv"
+skin: "ceramic"
+
+basic_info:
+
+    first_name: Verónica  
+    last_name: Bertilotti
+    motto: Full-stack Developer
+    avatar: https://ca.slack-edge.com/T0BFXMWMV-U016UALM9TQ-64f2a564b0f1-48
+    summary: 
+
+    Debido a mi necesidad de cambiar de sector laboral, he iniciado este Bootcamp de Full-Stack Developer con el que conseguiré desenvolverme en lenguajes como HTML5,CSS, JAavascript,React,Pyhon, entre otros, para desempeñar mi puesto de trabajo. Al finalizar el curso mi intención es seguir formándome para conseguir dominar todos estos conocimientos de la mejor manera posible.
+
+    Me considero una persona responsable y organizada con facilidad para trabajar en equipo. Me gusta trabajar cumpliento la puntualidad a la hora de entragar un proyecto e intento no bloquearme y solicitar ayuda si no domino algo para en la siguiente ocasión realizarlo sola.
+
+    email: vbertilotti@hotmail.com  
+    phone: 677671135
+    website: 
+    linkedin: Verónica Bertilotti López
+    github: VeronicaBertilotti
+    twitter: @BertilottiLopez
+    stack-overflow: 
+
+    languages:
+      - idiom: Spanish
+        level: Native
+
+    interests:
+      - item: Tv series
+
+      - item: Shopping
+
+      - item: Going for a walk
+
+education:
+    - degree: Teaching
+      university: Complutense
+      time: 4 years
+      details: 
+
+    - degree: childhood education 
+      time: 2 years
+      
+experiences:
+    - role: Student
+      time: Currently
+      company: 4Geeks Academy
+      details: Practicing with HTML,CSS,Javascript.
+    
+projects:
+    intro: >
+      There are some of my github projects for the 4GeeksAcademy course!
+    
+    assignments:
+
+      - title: Excuse Generator
+        link: https://github.com/VeronicaBertilotti/Generador-de-excusas-JS
+        tagline: "Random excuse generator"
+
+      - title: Instagram Bootstrap
+        link: https://github.com/VeronicaBertilotti/Instagram-Photo-Feed-BOOTSTRAP
+        tagline: "A Bootstrap website template created to display posts and switch from grid to list view"
+
+      - title: Postcard
+        link: https://github.com/VeronicaBertilotti/PostCard-HTML-CSS
+        tagline: "A website template designed to input information on a postcard"
+
+       - title: Instagram Post
+         link: https://github.com/VeronicaBertilotti/Instagram-Post-HTML-CSS
+         tagline: "A website template desing to input information on a post"
+      
+skills:
+    toolset:
+    
+      - name: HTML5 & CSS
+        level: 20%
